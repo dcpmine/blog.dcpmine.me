@@ -1,0 +1,11 @@
+# Sample Authors
+# Remove file or replace with your own
+
+Billy Rick:
+  name: David Burns
+  picture: /images/bio-photo.jpg
+  twitter: "@billyrick"
+  links:
+    - title: Twitter
+      url: https://twitter.com/billyrick
+      icon: fab fa-twitter-square
